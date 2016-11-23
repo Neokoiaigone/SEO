@@ -10,6 +10,9 @@
     <link rel="stylesheet" type="text/css">
     <link href="css/style.css" rel="stylesheet">
     <link href="css/animate.css" rel="stylesheet">
+
+      <meta name="keywords" content="Portfolio, Louis, Alexandre, Bricq, WEBDESIGNER, html, css">
+
     
 
 
