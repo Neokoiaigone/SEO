@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>Intégration</title>
+    <title>Portfolio | Savoir faire & collaborateurs</title>
     <meta charset="">
     <meta name="viewport" content="width=device-width">
 
@@ -77,28 +77,28 @@
             </div>
             <div class="col-md-3">
                 <div class="service text-center wow FadeInLeft">
-                    <img src="images/php.png" alt="" class="img-responsive roundedImage center-block"/>
+                    <img src="images/php.png" alt="php" class="img-responsive roundedImage center-block"/>
                     <h3>À quoi ça sert ?</h3>
                     <p>Forums, blogs, réseaux sociaux... les sites Web d'aujourd'hui sont fonctionnels, participatifs, ils se renouvellent sans cesse. Ils sont « dynamiques ». Le langage PHP a été créé justement pour générer cette interactivité. </p>
                 </div>
             </div>
             <div class="col-md-3">
                 <div class="service text-center wow FadeInLeft">
-                    <img src="images/css.png" alt="" class="img-responsive roundedImage center-block"/>
+                    <img src="images/css.png" alt="html-css" class="img-responsive roundedImage center-block"/>
                     <h3>À quoi ça sert ?</h3>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                 </div>
             </div>
             <div class="col-md-3">
                 <div class="service text-center wow FadeInRight">
-                    <img src="images/wordpress.png" alt="" class="img-responsive roundedImage center-block"/>
+                    <img src="images/wordpress.png" alt="wordpress" class="img-responsive roundedImage center-block"/>
                     <h3>À quoi ça sert ?</h3>
                     <p>WordPress est un système de gestion de contenus permettant de créer son propre site assez facilement. En plus de sa simplicité d'utilisation, il présente de nombreux autres atouts.  </p>
                 </div>
             </div>
             <div class="col-md-3 ">
                 <div class="service text-center wow FadeInRight">
-                    <img src="images/js.png" alt="" class="img-responsive roundedImage center-block"/>
+                    <img src="images/js.png" alt="javascript" class="img-responsive roundedImage center-block"/>
                     <h3>À quoi ça sert ?</h3>
                     <p>Faire bouger, apparaitre ou disparaitre des éléments de la page (un titre, un menu, un paragraphe, une image…).
                     Mettre à jour des éléments de la page sans recharger la page (changer le texte, recalculer un nombre, etc).
@@ -119,7 +119,7 @@
                 </div>  
             <div class="col-md-3">
                 <div class="rencontre text-center wow FadeInDown">
-                    <img src="images/moi.jpg" alt="" class="img-responsive roundedImage center-block"/>
+                    <img src="images/moi.jpg" alt="Louis-webmaster" class="img-responsive roundedImage center-block"/>
                     <h3>Futur webmaster</h3>
                     <p class="blue">Louis-Alexandre Bricq</p>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
@@ -131,7 +131,7 @@
             </div>
              <div class="col-md-3">
                 <div class="rencontre text-center wow FadeInUp">
-                    <img src="images/bg.jpg" alt="Adamlebg" class="img-responsive roundedImage center-block"/>
+                    <img src="images/bg.jpg" alt="Adam-graphiste" class="img-responsive roundedImage center-block"/>
                     <h3>Graphiste de génie</h3>
                     <p class="blue">Adam benhaddou</p>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
@@ -143,9 +143,9 @@
             </div>
              <div class="col-md-3">
                 <div class="rencontre text-center wow FadeInUp">
-                    <img src="images/lol.jpeg" alt="" class="img-responsive roundedImage center-block"/>
+                    <img src="images/esport.jpg" alt="Valentin-esportif" class="img-responsive roundedImage center-block"/>
                     <h3>service 1</h3>
-                    <p class="blue">Creative Director</p>
+                    <p class="blue">Valentin Savigny</p>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
                     <a href="https://www.facebook.com/Pnlmusic/?fref=ts"><img src="images/facebook.svg" class="icone"></a>
                     <a href="https://www.facebook.com/Pnlmusic/?fref=ts"><img src="images/twitter.png" class="icone"></a>
