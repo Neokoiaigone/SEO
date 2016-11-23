@@ -1,8 +1,10 @@
 <html>
-<head>
-    <title>Portfolio | Savoir faire & collaborateurs</title>
-    <meta charset="">
+<head lang="fr">
+    <title>Portfolio | adam, valentin louis-alexandre</title>
+    <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
+    <meta name="keywords" content="Portfolio, Louis, Alexandre, Bricq, WEBDESIGNER, html, css">
+    <meta name="description" content="Site Web Portfolio de Louis Alexandre représentant le Genie de cet Homme moderne actuellement à l'insitut du Multimédia et de l'internet en 2 ème année il a plus de 25 sites crée a son actif">
 
     <!--style -->
     <!-- Latest compiled and minified CSS -->
@@ -11,9 +13,7 @@
     <link href="css/style.css" rel="stylesheet">
     <link href="css/animate.css" rel="stylesheet">
 
-    <meta name="keywords" content="Portfolio, Louis, Alexandre, Bricq, WEBDESIGNER, html, css">
-     <meta name="description" content="Site Web Portfolio de Louis Alexandre représentant le Genie de cet Homme moderne actuellement à l'insitut du Multimédia et de l'internet en 2 ème année il a plus de 25 sites crée a son actif">
-
+    
 
     
 
