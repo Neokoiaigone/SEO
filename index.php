@@ -132,7 +132,7 @@
              <div class="col-md-3">
                 <div class="rencontre text-center wow FadeInUp">
                     <img src="images/bg.jpg" alt="Adam-graphiste" class="img-responsive roundedImage center-block"/>
-                    <h3>Graphiste de génie</h3>
+                    <h3>Graphiste & DJ de génie</h3>
                     <p class="blue">Adam benhaddou</p>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
                     <a href="https://www.facebook.com/Pnlmusic/?fref=ts"><img src="images/facebook.svg" alt="fb" class="icone"></a>
