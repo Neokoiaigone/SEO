@@ -1,10 +1,13 @@
-<html>
-<head lang="fr">
-    <title>Portfolio | adam, valentin louis-alexandre</title>
+<!DOCTYPE html>
+<html lang="fr" xmlns:og="http://ogp.me/ns#">
+<head>
+    <title>Portfolio | adam, valentin, louis-alexandre</title>
     <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width">
     <meta name="keywords" content="Portfolio, Louis, Alexandre, Bricq, WEBDESIGNER, html, css">
-    <meta name="description" content="Site Web Portfolio de Louis Alexandre représentant le Genie de cet Homme moderne actuellement à l'insitut du Multimédia et de l'internet en 2 ème année il a plus de 25 sites crée a son actif">
+    <meta name="description" content="Site Web Portfolio de Louis Alexandre représentant le Genie 
+    de cet Homme moderne actuellement à l'iim en 2 ème année il a plus de 25 sites crée a son actif">
 
     <!--style -->
     <!-- Latest compiled and minified CSS -->
@@ -14,6 +17,21 @@
     <link href="css/animate.css" rel="stylesheet">
 
 
+
+    <meta property="og:title" content="Portfolio | adam, valentin, louis-alexandre" />
+    <meta property="og:type" content="PorteFolio" />
+    <meta property="og:url" content="http://www.yakaferci.com/open-graph/" />
+    <meta property="og:image" content="http://www.yakaferci.com/images/yakaferci_small.jpg" />
+    <meta property="og:description" content="Site Web Portfolio de Louis Alexandre représentant le Genie 
+    de cet Homme moderne actuellement à l'iim en 2 ème année il a plus de 25 sites crée a son actif" />
+
+    <meta name="dc.language" CONTENT="FR">
+    <meta name="dc.source" CONTENT="http://localhost:8888/SEO/#/">
+    <meta name="dc.relation" CONTENT="http://www.second-domain.com/">
+    <meta name="dc.title" CONTENT="Portfolio | adam, valentin, louis-alexandre">
+    <meta name="dc.keywords" CONTENT="more keywords">
+    <meta name="dc.subject" CONTENT="the subject">
+    <meta name="dc.description" CONTENT="A description of the content">
 
 
     
@@ -110,6 +128,50 @@
     </div>
 </section>
 
+<section class="materiel">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="text-center wow FadeInDown">
+                    <h2>MON SAVOIR FAIRE</h2>
+                    <hr>
+                    <p>Matériel utilisé pour les cours de web à l'iim. </p>
+                </div>  
+            </div>
+            <div class="col-md-3">
+                <div class="service text-center wow FadeInLeft">
+                    <img src="images/php.png" alt="php" class="img-responsive roundedImage center-block"/>
+                    <h3>À quoi ça sert ?</h3>
+                    <p>Forums, blogs, réseaux sociaux... les sites Web d'aujourd'hui sont fonctionnels, participatifs, ils se renouvellent sans cesse. Ils sont « dynamiques ». Le langage PHP a été créé justement pour générer cette interactivité. </p>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="service text-center wow FadeInLeft">
+                    <img src="images/css.png" alt="html-css" class="img-responsive roundedImage center-block"/>
+                    <h3>À quoi ça sert ?</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="service text-center wow FadeInRight">
+                    <img src="images/wordpress.png" alt="wordpress" class="img-responsive roundedImage center-block"/>
+                    <h3>À quoi ça sert ?</h3>
+                    <p>WordPress est un système de gestion de contenus permettant de créer son propre site assez facilement. En plus de sa simplicité d'utilisation, il présente de nombreux autres atouts.  </p>
+                </div>
+            </div>
+            <div class="col-md-3 ">
+                <div class="service text-center wow FadeInRight">
+                    <img src="images/js.png" alt="javascript" class="img-responsive roundedImage center-block"/>
+                    <h3>À quoi ça sert ?</h3>
+                    <p>Faire bouger, apparaitre ou disparaitre des éléments de la page (un titre, un menu, un paragraphe, une image…).
+                    Mettre à jour des éléments de la page sans recharger la page (changer le texte, recalculer un nombre, etc).
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
 <section id="rencontres">
     <div class="container">
         <div class="row">
@@ -133,7 +195,7 @@
              <div class="col-md-3">
                 <div class="rencontre text-center wow FadeInUp">
                     <img src="images/bg.jpg" alt="Adam-graphiste" class="img-responsive roundedImage center-block"/>
-                    <h3>Graphiste & DJ de génie</h3>
+                    <h3>Graphiste & DJ</h3>
                     <p class="blue">Adam benhaddou</p>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
                     <a href="https://www.facebook.com/Pnlmusic/?fref=ts"><img src="images/facebook.svg" alt="fb" class="icone"></a>
