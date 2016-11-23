@@ -93,6 +93,9 @@ img {
 #rencontres {
   background: #5dddfb !important;
 }
+.allo{
+  background: darkslategrey !important;
+}
 
 .rencontre {
   margin-top: 50px;

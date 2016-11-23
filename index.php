@@ -136,7 +136,7 @@
                     <h2>MON SAVOIR FAIRE</h2>
                     <hr>
                     <p>Matériel utilisé pour les cours de web à l'iim. </p>
-                </div>  
+                </div>
             </div>
             <div class="col-md-3">
                 <div class="service text-center wow FadeInLeft">
@@ -231,7 +231,49 @@
         </div>
     </div>
 </section>
-
+<section class="allo">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="text-center wow FadeInDown">
+                    <h2>MON SAVOIR FAIRE</h2>
+                    <hr>
+                    <p>Matériel utilisé pour les cours de web à l'iim. </p>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="service text-center wow FadeInLeft">
+                    <img src="images/php.png" alt="php" class="img-responsive roundedImage center-block"/>
+                    <h3>À quoi ça sert ?</h3>
+                    <p>Forums, blogs, réseaux sociaux... les sites Web d'aujourd'hui sont fonctionnels, participatifs, ils se renouvellent sans cesse. Ils sont « dynamiques ». Le langage PHP a été créé justement pour générer cette interactivité. </p>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="service text-center wow FadeInLeft">
+                    <img src="images/css.png" alt="html-css" class="img-responsive roundedImage center-block"/>
+                    <h3>À quoi ça sert ?</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="service text-center wow FadeInRight">
+                    <img src="images/wordpress.png" alt="wordpress" class="img-responsive roundedImage center-block"/>
+                    <h3>À quoi ça sert ?</h3>
+                    <p>WordPress est un système de gestion de contenus permettant de créer son propre site assez facilement. En plus de sa simplicité d'utilisation, il présente de nombreux autres atouts.  </p>
+                </div>
+            </div>
+            <div class="col-md-3 ">
+                <div class="service text-center wow FadeInRight">
+                    <img src="images/js.png" alt="javascript" class="img-responsive roundedImage center-block"/>
+                    <h3>À quoi ça sert ?</h3>
+                    <p>Faire bouger, apparaitre ou disparaitre des éléments de la page (un titre, un menu, un paragraphe, une image…).
+                        Mettre à jour des éléments de la page sans recharger la page (changer le texte, recalculer un nombre, etc).
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 <!-- Footer -->
 
 <div class="contactus">
