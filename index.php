@@ -126,7 +126,7 @@
             </div>
              <div class="col-md-3">
                 <div class="rencontre text-center wow FadeInUp">
-                    <img src="images/bg.jpg" alt="" class="img-responsive roundedImage center-block"/>
+                    <img src="images/bg.jpg" alt="Adamlebg" class="img-responsive roundedImage center-block"/>
                     <h3>Graphiste de génie</h3>
                     <p class="blue">Adam benhaddou</p>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
