@@ -223,12 +223,17 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="text-center wow FadeInDown">
+                  
                     <h2>Matériel</h2>
                     <hr>
-                    <h3>Matériel utilisé pour l'iim</h3>
+                    <img src="images/n.jpg" alt="Ordi" class="img-responsive center-block"/>  
+                    <hr>
+                           <h3>  Nous utilisons principalement des MacBook Pro. Il est plus rapide et plus puissant que jamais.Mais
+                        aussi remarquablement plus fin et plus léger. </h3> 
+                
                 </div>
             </div>
-            <div class="col-md-8 col-md-offset-2">
+            <div class="col-md-6">
                 <div class="service text-center wow FadeInLeft">
                     <p>Nous utilisons principalement un MacBook Pro. Il est plus rapide et plus puissant que jamais.Mais
                         aussi remarquablement plus fin et plus léger. Il est doté de l’écran le plus lumineux et le
@@ -237,6 +242,19 @@
                         adaptés à ce que vous faites. Innovant et créatif, le nouveau MacBook Pro a été inventé pour que
                         vous puissiez tout réinventer.
                     </p>
+
+                </div>
+            </div>
+<div class="col-md-6">
+                <div class="service text-center wow FadeInLeft">
+                    <p>Nous utilisons principalement un MacBook Pro. Il est plus rapide et plus puissant que jamais.Mais
+                        aussi remarquablement plus fin et plus léger. Il est doté de l’écran le plus lumineux et le
+                        plus coloré jamais vu sur un portable Mac. Et il inaugure la Touch Bar, une fine bande
+                        Multi‑Touch en verre intégrée au clavier qui vous propose en temps réel les outils les plus
+                        adaptés à ce que vous faites. Innovant et créatif, le nouveau MacBook Pro a été inventé pour que
+                        vous puissiez tout réinventer.
+                    </p>
+                    
                 </div>
             </div>
 
