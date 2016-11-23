@@ -13,13 +13,8 @@
     <link href="css/style.css" rel="stylesheet">
     <link href="css/animate.css" rel="stylesheet">
 
-<<<<<<< Updated upstream
-    
-=======
-    <meta name="keywords" content="Portfolio, Louis, Alexandre, Bricq, WEBDESIGNER, html, css">
-     <meta name="description" content="Site Web Portfolio de Louis Alexandre représentant le Genie de cet Homme moderne actuellement à l'insitut du Multimédia">
 
->>>>>>> Stashed changes
+
 
     
 
