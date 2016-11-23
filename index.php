@@ -12,7 +12,7 @@
     <link href="css/animate.css" rel="stylesheet">
 
     <meta name="keywords" content="Portfolio, Louis, Alexandre, Bricq, WEBDESIGNER, html, css">
-     <meta name="description" content="Site Web Portfolio de Louis Alexandre représentant le Genie de cet Homme moderne">
+     <meta name="description" content="Site Web Portfolio de Louis Alexandre représentant le Genie de cet Homme moderne actuellement à l'insitut du Multimédia et de l'internet en 2 ème année il a plus de 25 sites crée a son actif">
 
 
     
