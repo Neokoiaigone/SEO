@@ -144,7 +144,7 @@
              <div class="col-md-3">
                 <div class="rencontre text-center wow FadeInUp">
                     <img src="images/esport.jpg" alt="Valentin-esportif" class="img-responsive roundedImage center-block"/>
-                    <h3>service 1</h3>
+                    <h3>E-sportif</h3>
                     <p class="blue">Valentin Savigny</p>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
                     <a href="https://www.facebook.com/Pnlmusic/?fref=ts"><img src="images/facebook.svg" class="icone"></a>
